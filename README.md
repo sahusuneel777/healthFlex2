@@ -1,2 +1,3 @@
 Hi there.
-Go to master branch to see the code. 
+
+on your terminal, navigate to project path and enter 'npx expo start' to run the application.  
